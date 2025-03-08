@@ -14,4 +14,5 @@ Quizas unos pequeños *sketches* nos ayuden a dilucidar algún concepto
 - [Polimorfismo y Encapsulamiento](./polimorfismo_y_encapsulamiento/readme.md)
 - [Ambientes Virtuales](./ambientes_virtuales/readme.md)
 - [Administrador de Contexto](./administrador_de_contexto/readme.md)
+- [Paquetes y Módulos](./paquetes_y_modulos/readme.md)
 - [Git, commit, push](./git/readme.md)
